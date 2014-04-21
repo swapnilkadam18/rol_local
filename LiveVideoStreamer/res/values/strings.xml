@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LiveVideoStreamer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- only copy paste the below strings -->
+    <string name="stringStream">Stream Video</string>
+    <string name="stringView">View Video</string>
+
+</resources>
