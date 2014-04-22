@@ -10,7 +10,7 @@ public class Constants {
 	public static ArrayList<String> videoSequence = new ArrayList<String>();
 
 	
-	public void showLog(String TAG, String message){
+	public static void showLog(String TAG, String message){
 		Log.e(TAG, message);
 	}
 }
